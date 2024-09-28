@@ -1,0 +1,262 @@
+.ire {
+    background-image: url(pexels-morningtrain-18105.jpg);
+    height: 100vh;
+    background-size: cover;
+    padding-top: 300px;
+    padding-left: 350px;
+    color: white;
+}
+
+.aero {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.kite h1 {
+    color: blue;
+}
+
+.fly h1 {
+    color: blue;
+}
+
+.air h1 {
+    color: blue;
+}
+
+.a {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.b img {
+    width: 400px;
+}
+
+.b {
+    display: flex;
+    justify-content: space-around;
+}
+
+.c img {
+    width: 400px;
+}
+
+.c {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.d {
+    text-align: center;
+}
+
+.e1 {
+    background-color: black;
+    display: flex;
+    width: 75%;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.f1 img {
+    width: 400px;
+}
+
+.g1 {
+    padding: 5px;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+}
+.g21 {
+    padding: 5px;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+}
+
+.h1 {
+  width: 150px;
+  height: 150px;
+}
+
+.i1 {
+  width: 150px;
+  height: 150px;
+}
+
+.j1 {
+  width: 150px;
+}
+
+.k1 {
+  width: 150px;
+}
+
+.e1 {
+    margin-top: 100px;
+}
+
+
+.hold{
+    display: flex;
+}
+.hold2{
+    display: flex;
+}
+
+.ogb{
+    display: grid;
+}
+
+.strategy{
+    width: 500px;
+}
+.art{
+    width: 500px;
+}
+
+.over {
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.cover {
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.hi {
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.no {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+
+.goimg img {
+    width: 450px;
+    height: 400px;
+}
+
+.noimg {
+    display: flex;
+}
+
+
+
+
+
+
+.roaridk{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.lore{
+    display: flex;
+    margin-top: 60px;
+    gap: 100px;
+}
+
+.classes{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+.fn img{
+    width: 300px;
+    border-radius: 50%;
+}
+
+.ez img{
+    width: 300px;
+    border-radius: 50%;
+}
+
+.yk img{
+    width: 300px;
+    border-radius: 50%;
+}
+
+.still img {
+    width: 350px;
+}
+
+.move img {
+    width: 350px;
+}
+
+.stay img {
+  width: 350px;
+}
+
+.go {
+    justify-content: space-around;
+    gap: 30px;
+}
+
+.stay h3 {
+  color: turquoise;
+}
+
+.move h3 {
+  color: turquoise;
+}
+
+.still h3 {
+  color: turquoise;
+}
+
+.bird {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+}
+
+.mouse {
+    display: flex;
+    justify-content: space-around;
+}
+
+.bird button {
+    background-color: turquoise;
+    width: 150px;
+    padding: 10px;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+
+.Lets {
+    background-color: turquoise;
+    display: flex;
+    justify-content: center;
+    width: 1000px;
+    margin-top: 50px;
+}
+
+.noimg {
+    display: flex;
+}
+
+.goo {
+display: flex;
+gap: 20px;
+padding-bottom: 200px;
+}
